@@ -2,7 +2,7 @@
 ![Patrick gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ2MXd1N3FobDE4YjFxbnUzZG84aWthYW1oaWV5cms1dXc0OGwwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ofSB7qVeodf2TgrYs/giphy.gif)
 ## About Me
 My name is Aaron.
-I am a 3rd year Post-Bacc Computer Science student at the University of Houston. I'm a passionate individual who recently embarked on an exciting journey to explore my newfound love for computer science. Having a background in healthcare and exercise science, I've witnessed the power of technology has in helping people manage their physical and mental health. My goal is to hopefully bridge the gap between these two fields and make a positive impact through innovative solutions and technological advances.
+I am a 4th year Post-Bacc Computer Science student at the University of Houston. I'm a passionate individual who recently embarked on an exciting journey to explore my newfound love for computer science. Having a background in healthcare and exercise science, I've witnessed the power of technology has in helping people manage their physical and mental health. My goal is to hopefully bridge the gap between these two fields and make a positive impact through innovative solutions and technological advances.
 
 
 ## Contact Me
